@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Nhập môn CSS</title>
+		<style>
+			header{background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE0AqZlKFbMT2Rzou8d53Dsyjl_YMVUN1-hg&usqp=CAU);height:170px;}
+			section{background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmY7vCn6nH2214KxyZwv2ZtK5ogJKwZ7CZ4A&usqp=CAU
+            );height:600px;color:#006080;}
+			footer{background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1glTv5GUqMhpGYkXBlPZu5BaC7IzlIEHJVg&usqp=CAU);height:160px;}
+		</style>
+	</head>
+	<body>
+		<header>
+			<nav align="center">
+				<a href="index.html">Trang chủ</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<a href="thongtin.html">Thông tin</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="dangnhap.html">Đăng Nhập</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="dawngki.html">Đăng kí</a>
+		</header>
+		<section> 
+			<h1 align="center">CHÀO MỪNG BẠN ĐÃ ĐẾN THĂM </h1>
+		    <form align="center">
+				<input type="text">
+				<button>OK</button>
+			</form>
+		</section>
+		<footer>
+			<p>Bản quyền .</p>
+		</footer>
+	</body>
+</html
